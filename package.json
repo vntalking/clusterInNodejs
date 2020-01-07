@@ -1,0 +1,32 @@
+{
+  "name": "clusters-in-node-js",
+  "version": "1.0.0",
+  "description": "Cluster usage examples in Node.js",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kailashw/clustersInNodeJS.git"
+  },
+  "keywords": [
+    "Node.js",
+    "cluster",
+    "clusters",
+    "js",
+    "JavaScript",
+    "node",
+    "express",
+    "http"
+  ],
+  "author": "Kailas Walldoddi <kailashwall@gmail.com> (www.kailash.space)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kailashw/clustersInNodeJS/issues"
+  },
+  "homepage": "https://github.com/Kailashw/clustersInNodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
